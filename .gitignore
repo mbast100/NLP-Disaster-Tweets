@@ -1,3 +1,12 @@
 .venv
+.vscode
+venv
+/venv
+
+.venv
+pip-selfcheck.json
+**/__pycache__
 env
+.dist
+# vs code
 .vscode
